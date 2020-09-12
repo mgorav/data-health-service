@@ -24,7 +24,7 @@ But a million dollar question, how can derive "data health sense", from the meta
 
 ## Data Health Using Graph DB
 
-Graph DB are very power deducing connection between data. Hence, I would like to propose the usage of Graph to derive health of the data. How would graph model would look like to develop such as servicee.
+Graph databases are power in deducing connection between data (no matter what type data). Hence, I would like to propose the usage of Graph to derive health of the data. How would graph model would look like to develop such as servicee.
 
 ## Data Health Graph Model
 
