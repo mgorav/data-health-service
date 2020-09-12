@@ -5,7 +5,7 @@ As the saying goes - "Data is Gold". A good jeweller will tell you, before buyin
 The same applies to data also.
 The "index of readiness of data" is calculated as:
 
-Index Of Readiness = 1 / sum (score  metrics influencing data quality) + score (data lineage) + score (data integrity)
+**_Index Of Readiness = 1 / sum (score  metrics influencing data quality) + score (data lineage) + score (data integrity)_**
 
 If the index of readiness is closer to "zero", this implies that data is health
 
