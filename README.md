@@ -19,9 +19,11 @@ Since quality of the data depends on various factors, I would like to propose a 
 - ETL pipeline metadata service (pipeline context metadata)
 - ...
 
-Hence in nut shell, "Data Health As Service" will provide "Index Of Readiness" of data.
+Hence in nut shell, "Data Health As Service" will provide "Index Of Readiness" of data as show below:
 
-But a million dollar question, how can derive "data health sense", from the metadata.
+![alt text](data-health-indexofreadiness.png)
+
+A million dollar question, how can derive "data health sense", from the metadata.
 
 ## Data Health Using Graph DB
 
