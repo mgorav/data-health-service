@@ -1,14 +1,14 @@
 # Data Health As Service Using Graph DB
 
-In this blog I will "**Health Of The Data**" and I would "**_Data Health As Service_**" using Graph DB
+In this blog I will explore design/implementation of "**Health Of The Data**" and I would "**_Data Health As Service_**" using Graph DB
 
 ## Modern Data Platform Architecture
-The below picture shows Modern Data Platform Architure
+The below picture shows Modern Data Platform architecture:
 
 ![alt text](DataArchitecture.png)
 
 ## Context
-The prime goal of Data in Data Platform to enable data driven decision using reports. The quality of the reports at broad level dependent on:
+The prime goal of data in data platform is to enable data driven decision using reports. The quality of the reports build using data, at broad level dependent on:
 - Quality of data
 - Timeliness of data
 - Data lineage
