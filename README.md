@@ -1,16 +1,7 @@
 # Data Health As Service Using Graph DB
 
 In this blog I will explore design/implementation of "**Health Of The Data**" by designing & building - "**_Data Health As Service_**" which finds the health of data from various contributors using graph inferencing.
-
-## Cadence
-As the saying goes - **_"Data is Gold"_**. A good jeweller will tell you, before buying the gold, double/triple check the quality. The quality of the gold is measured in "carats". The value of "carats" governs the cost of the gold. For example, 24 carat gold is expensive then 22 carat and so on.
-The same applies to data as well.
-The **"index of readiness of data"** is calculated as:
-
-**_Index Of Readiness = 1 / sum (score  metrics influencing data quality) + score (data lineage) + score (data integrity)_**
-
-_**If the index of readiness is closer to "zero", this implies that data is healthy.**_
-
+Let's start our journet by understanding a modern data platform architecture.
 ## Modern Data Platform Architecture
 The below picture shows Modern Data Platform architecture:
 
@@ -29,6 +20,16 @@ Since quality of the data depends on various factors, I would like to propose a 
 - ...
 
 Hence in nut shell, "Data Health As Service" will provide "Index Of Readiness" of data as show below:
+
+## Cadence
+As the saying goes - **_"Data is Gold"_**. A good jeweller will tell you, before buying the gold, double/triple check the quality. The quality of the gold is measured in "carats". The value of "carats" governs the cost of the gold. For example, 24 carat gold is expensive then 22 carat and so on.
+The same applies to data as well.
+The **"index of readiness of data"** is calculated as:
+
+**_Index Of Readiness = 1 / sum (score  metrics influencing data quality) + score (data lineage) + score (data integrity)_**
+
+_**If the index of readiness is closer to "zero", this implies that data is healthy.**_
+
 
 ![alt text](data-health-indexofreadiness.png)
 
