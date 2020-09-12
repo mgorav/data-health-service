@@ -21,7 +21,7 @@ Since quality of the data depends on various factors, I would like to propose a 
 
 Hence in nut shell, "Data Health As Service" will provide "Index Of Readiness" of data as show below:
 
-![alt text](data-health-indexofreadiness.png)
+![alt text](datahealth-indexofreadiness.png)
 
 ## Cadence
 As the saying goes - **_"Data is Gold"_**. A good jeweller will tell you, before buying the gold, double/triple check the quality. The quality of the gold is measured in "carats". The value of "carats" governs the cost of the gold. For example, 24 carat gold is expensive then 22 carat and so on.
