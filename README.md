@@ -38,6 +38,12 @@ The graph db output looks like below:
 ![alt text](datahealth-graph-output.png)
 
 ## How to Run?
+Data As Service is build using:
+- Java 11
+- Spring Boot 2.3.3
+- Neo4j
+- Spring data neo4j
+Below are steps to run this service:
 - Run neo4j docker
 - Run the DataHealthServiceApplicaiton
 
@@ -48,6 +54,8 @@ For further reference, please consider the following sections:
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.3.3.RELEASE/maven-plugin/reference/html/)
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.3.3.RELEASE/maven-plugin/reference/html/#build-image)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.3.3.RELEASE/reference/htmlsingle/#boot-features-developing-web-applications)
+* [Spring Data Neo4j](https://spring.io/projects/spring-data-neo4j)
+
 
 ### Guides
 The following guides illustrate how to use some features concretely:
