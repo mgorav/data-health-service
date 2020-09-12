@@ -42,6 +42,12 @@ The following diagram shows the design of graph model for data health deduciton:
 
 ![alt text](datahealth-graphdb-model.png)
 
+## Data Heath Entities UML Class Diagram
+
+Below diagram shows the data health entities class diagram:
+
+![alt text](datahealth-entities-classmodel.png)
+
 ## Data Health Output
 The graph db output looks like below:
 
