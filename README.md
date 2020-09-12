@@ -49,7 +49,7 @@ The graph db output looks like below:
 
 ## Conclusion
 
-Using above graph depiction it's very easy to deduce the health of data. If any of link from the **_"contributor/or report"_**  is missing, this will directly **_imply health is unhealthy_**.
+Using above graph depiction it's very easy to deduce the health of data. If any of link from the **_"contributor/or report"_**  is missing, this will directly **_imply health is unhealthy_**. This is great way to find the health of data because allows iteratively adding data health influencing metrices.
 
 ## How to Run?
 Data As Service is build using:
