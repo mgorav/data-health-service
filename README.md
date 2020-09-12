@@ -32,7 +32,9 @@ The **"index of readiness of data"** is calculated as:
 
 _**If the index of readiness is closer to "zero", this implies that data is healthy.**_
 
-A million dollar question, how can we derive "data health sense", from the metadata.
+So mathematically we can drive health of the data using "Index Of Readiness". In real world scenario it's hard to get all the parameter which affects the health of the data.
+
+A million dollar question, how can we derive "data health sense", from the metadata non mathematically.
 
 ## Data Health Using Graph DB
 
