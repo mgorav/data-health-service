@@ -1,6 +1,6 @@
 # Data Health As Service Using Graph DB
 
-In this blog I will explore design/implementation of "**Health Of The Data**" and let's call it, "**_Data Health As Service_**".
+In this blog I will explore design/implementation of "**Health Of The Data**" by designing & building - "**_Data Health As Service_**" using graph inferencing.
 As the saying goes - **_"Data is Gold"_**. A good jeweller will tell you, before buying the gold, double/triple check the quality. The quality of the gold is measured in "carats". The value of "carats" governs the cost of the gold. For example, 24 carat gold is expensive then 22 carat and so on.
 The same applies to data as well.
 The **"index of readiness of data"** is calculated as:
