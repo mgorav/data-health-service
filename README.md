@@ -1,10 +1,14 @@
 # Data Health As Service Using Graph DB
 
 In this blog I will explore design/implementation of "**Health Of The Data**" and let's call it, "**_Data Health As Service_**".
-As the saying goes - "Data is Gold". A good jeweller will tell you, before buying the gold, double/triple check the quality which is measured in "caret". The quality of the gold is measures in "carats". The value of "carats" governs the cost of the gold. For example, 24 carat gold is expensive than 22 carat and so on.
-The same applies to "Data" also. 
+As the saying goes - "Data is Gold". A good jeweller will tell you, before buying the gold, double/triple check the quality. The quality of the gold is measures in "carats". The value of "carats" governs the cost of the gold. For example, 24 carat gold is expensive than 22 carat and so on.
+The same applies to "Data" also. Check my blog, which explore the design and implementation of Data Health As Service.
+https://lnkd.in/ddhYj5y
 The "index of readiness of data" is calculated as:
+
 Index Of Readiness = 1 / sum (score metrices influencing data quality)
+
+If the index of readiness is closer to "zero", this implies that data is health
 
 If the index of readiness is closer to "zero", this implies that data is health
 (happy programmer day :-)) 
