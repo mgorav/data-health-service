@@ -6,12 +6,9 @@ The same applies to "Data" also. Check my blog, which explore the design and imp
 https://lnkd.in/ddhYj5y
 The "index of readiness of data" is calculated as:
 
-Index Of Readiness = 1 / sum (score metrices influencing data quality)
+Index Of Readiness = 1 / sum (score  metrics influencing data quality) + score (data lineage) + score (data integrity)
 
 If the index of readiness is closer to "zero", this implies that data is health
-
-If the index of readiness is closer to "zero", this implies that data is health
-(happy programmer day :-)) 
 
 ## Modern Data Platform Architecture
 The below picture shows Modern Data Platform architecture:
