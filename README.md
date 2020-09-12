@@ -25,7 +25,8 @@ Hence in nut shell, "Data Health As Service" will provide "Index Of Readiness" o
 
 ![alt text](datahealth-indexofreadiness.png)
 
-## Data Health UsingIndex Of Readiness
+## Data Health Using Index Of Readiness
+
 As the saying goes - **_"Data is Gold"_**. A good jeweller will tell you, before buying the gold, double/triple check the quality. The quality of the gold is measured in "carats". The value of "carats" governs the cost of the gold. For example, 24 carat gold is expensive then 22 carat and so on.
 The same applies to data as well.
 The **"index of readiness of data"** is calculated as:
