@@ -1,7 +1,7 @@
 # Data Health As Service Using Graph DB
 
 In this blog I will explore design/implementation of "**Health Of The Data**" and let's call it, "**_Data Health As Service_**".
-As the saying goes - "Data is Gold". A good jeweller will tell you, before buying the gold, double/triple check the quality. The quality of the gold is measures in "carats". The value of "carats" governs the cost of the gold. For example, 24 carat gold is expensive than 22 carat and so on.
+As the saying goes - "Data is Gold". A good jeweller will tell you, before buying the gold, double/triple check the quality. The quality of the gold is measured in "carats". The value of "carats" governs the cost of the gold. For example, 24 carat gold is expensive then 22 carat and so on.
 The same applies to data also.
 The "index of readiness of data" is calculated as:
 
