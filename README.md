@@ -42,6 +42,14 @@ The following diagram shows the design of graph model for data health deduciton:
 
 ![alt text](datahealth-graphdb-model.png)
 
+#### DataHeath
+   The starting point the "Data Health Service". It's responsible to enrolling data contributors which are contributing to final report.
+#### Contributor
+   This is responsible for capturing information affecting final report. An example of _**Contributor**_ is an ETL pipeline.
+#### Report
+    This resposible node in the graph. A typical example, can be cube or batch report etc.
+   
+
 ## Data Heath Entities UML Class Diagram
 
 Below diagram shows the data health entities class diagram:
