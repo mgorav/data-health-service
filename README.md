@@ -47,7 +47,7 @@ The following diagram shows the design of graph model for data health deduciton:
 #### Contributor
    This is responsible for capturing information affecting final report. An example of _**Contributor**_ is an ETL pipeline.
 #### Report
-    This resposible node in the graph. A typical example, can be cube or batch report etc.
+   This is a final node in the graph. A typical example, can be a cube or batch report etc.
    
 
 ## Data Heath Entities UML Class Diagram
