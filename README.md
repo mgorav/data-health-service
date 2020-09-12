@@ -30,7 +30,7 @@ Graph databases are power in deducing connection between data (no matter what ty
 
 The following diagram shows the design of graph model for data health deduciton:
 
-![alt text](datahealtp-graph-model.png)
+![alt text](data-health-graph-model.png)
 
 ## Data Health Output
 The graph db output looks like below:
