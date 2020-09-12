@@ -39,7 +39,7 @@ The graph db output looks like below:
 
 ## How to Run?
 Data As Service is build using:
-- Java 11
+- Java 14
 - Spring Boot 2.3.3
 - Neo4j
 - Spring data neo4j
