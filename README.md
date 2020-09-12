@@ -7,6 +7,8 @@ The below picture shows Modern Data Platform architecture:
 
 ![alt text](DataArchitecture.png)
 
+The above architecture shows various key components/services of the "Data Platform Architecture". In this blog, we will be looking in "Data Health Service" and components/services required for it function.
+
 ## Context
 The prime goal of data in data platform is to enable data driven decision using reports. The quality of the reports build using data, at broad level dependent on:
 - Quality of data
