@@ -1,7 +1,7 @@
 # Data Health As Service Using Graph DB
 
-In this blog I will explore design/implementation of "**Health Of The Data**" by designing & building - "**_Data Health As Service_**" which finds the health of data from various contributors using graph inferencing.
-Let's start our journet by understanding a modern data platform architecture.
+In this blog I will explore design/implementation of "**Health Of The Data**" by designing & building - "**_Data Health As Service_**" which finds the health of data from various contributors using graph inferencing. We also understand how to calculate health of data mathematically.
+Let's start our journey by understanding a modern data platform architecture.
 ## Modern Data Platform Architecture
 The below picture shows Modern Data Platform architecture:
 
