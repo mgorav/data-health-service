@@ -1,4 +1,4 @@
-# BI Data Health As Service Using Graph DB
+# Data Health As Service Using Graph DB
 
 In this blog I will "**Health Of The Data**" and I would "**_Data Health As Service_**" using Graph DB
 
