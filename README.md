@@ -1,6 +1,6 @@
 # Data Health As Service Using Graph DB
 
-In this blog I will explore design/implementation of "**Health Of The Data**" and I would "**_Data Health As Service_**" using Graph DB
+In this blog I will explore design/implementation of "**Health Of The Data**" and let's call it, "**_Data Health As Service_**".
 
 ## Modern Data Platform Architecture
 The below picture shows Modern Data Platform architecture:
