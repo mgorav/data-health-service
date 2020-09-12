@@ -43,7 +43,7 @@ The following diagram shows the design of graph model for data health deduciton:
 ![alt text](datahealth-graphdb-model.png)
 
 #### DataHeath
-   The starting point the "Data Health Service". It's responsible to enrolling data contributors which are contributing to final report.
+   The starting point the "Data Health Service". Its responsibility is to enroll data contributors which are contributing to final report/outcome.
 #### Contributor
    This is responsible for capturing information affecting final report. An example of _**Contributor**_ is an ETL pipeline.
 #### Report
