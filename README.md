@@ -34,7 +34,7 @@ A million dollar question, how can we derive "data health sense", from the metad
 
 ## Data Health Using Graph DB
 
-Graph databases are power in deducing connection between data (no matter what type data). Hence, I would like to propose the usage of graph database to derive health of the data. _How would the graph model look like, to develop such a service?_
+Graph databases are powerful in deducing connection between data (no matter what type data). Hence, I would like to propose the usage of graph database to derive health of the data. _How would the graph model look like, to develop such a service?_
 
 ## Data Health Graph Model
 
