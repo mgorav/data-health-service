@@ -1,0 +1,58 @@
+# BI Data Health As Service Using Graph DB
+
+In this blog I will "**Health Of The Data**" and I would "**_Data Health As Service_**" using Graph DB
+
+## Modern Data Platform Architecture
+The below picture shows Modern Data Platform Architure
+
+![alt text](DataArchitecture.png)
+
+## Context
+The prime goal of Data in Data Platform to enable data driven decision using reports. The quality of the reports at broad level dependent on:
+- Quality of data
+- Timeliness of data
+- Data lineage
+- ...
+
+Since quality of the data depends on various factors, I would like to propose a service/component in the design called _**"Data Health As Service"**_. This service will derive the health of the data from following key components:
+- Data Quality as service
+- ETL pipeline metadata service (pipeline context metadata)
+- ...
+Hence in nut shell, "Data Health As Service" will provide "Index Of Readiness" of data.
+
+But a million dollar question, how can derive "data health sense", from the metadata.
+
+## Data Health Using Graph DB
+
+Graph DB are very power deducing connection between data. Hence, I would like to propose the usage of Graph to derive health of the data. How would graph model would look like to develop such as servicee.
+
+## Data Health Graph Model
+
+The following diagram shows the design of graph model for data health deduciton:
+
+![alt text](datahealtp-graph-model.png)
+
+## Data Health Output
+The graph db output looks like below:
+
+![alt text](datahealth-graph-output.png)
+
+## How to Run?
+- Run neo4j docker
+- Run the DataHealthServiceApplicaiton
+
+### Reference Documentation
+For further reference, please consider the following sections:
+
+* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
+* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.3.3.RELEASE/maven-plugin/reference/html/)
+* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.3.3.RELEASE/maven-plugin/reference/html/#build-image)
+* [Spring Web](https://docs.spring.io/spring-boot/docs/2.3.3.RELEASE/reference/htmlsingle/#boot-features-developing-web-applications)
+
+### Guides
+The following guides illustrate how to use some features concretely:
+
+* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
+
