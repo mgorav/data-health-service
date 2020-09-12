@@ -30,7 +30,7 @@ Hence in nut shell, "Data Health As Service" will provide "Index Of Readiness" o
 
 ![alt text](data-health-indexofreadiness.png)
 
-A million dollar question, how can derive "data health sense", from the metadata.
+A million dollar question, how can we derive "data health sense", from the metadata.
 
 ## Data Health Using Graph DB
 
